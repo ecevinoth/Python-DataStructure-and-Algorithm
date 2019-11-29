@@ -10,7 +10,7 @@ def nth_to_lastnode(n, head):
     
     for i in range(n-1):
         if right_pointer.nextnode is None:
-            raise LookupError("LookupError : n is greater than the linked list")
+            raise LookupError("n is greater than the linked list")
         right_pointer = right_pointer.nextnode
 
     while right_pointer.nextnode:
