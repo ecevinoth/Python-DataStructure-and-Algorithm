@@ -1,4 +1,6 @@
 # Python-DataStructure-and-Algorithm
+
+# Linked List
 ## linkedlist_nth_to_lastnode.py
 Q: find the nth element from last node of a given linked list. 
 If nth value is greater than given linked list then through back LookupError.
@@ -9,3 +11,7 @@ Q: check for cycle in give given linked list if exist return True else False.
   - __True__
   - 1 --> 2 --> 3 --> None
   - __False__
+
+# Recursion
+## Factorial
+Q: find the factorial for given integer
