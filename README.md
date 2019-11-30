@@ -15,11 +15,12 @@ Q: check for cycle in give given linked list if exist return True else False.
 # Recursion
 how to visualize recursion:
 here is the diagram for factorical of 5!
-![Factorial viz diagram](https://drive.google.com/open?id=17Q1cXMEUmyi_HbZeBtHREG8C8YiatB-r)
+![Factorial viz diagram](https://github.com/ecevinoth/Python-DataStructure-and-Algorithm/blob/master/recursion_viz_factorial.png)
+
 ## recursion_factorial.py
 Q: find the factorial for given integer
 
 ## recursion_cumulative_sum.py
 Q: find the sum of n.
-Ex: given input : 4
-return : 4 + 3 + 2 + 1
+Ex: given input : __4__
+return : __4 + 3 + 2 + 1__
