@@ -13,5 +13,10 @@ Q: check for cycle in give given linked list if exist return True else False.
   - __False__
 
 # Recursion
-## Factorial
+## recursion_factorial.py
 Q: find the factorial for given integer
+
+## recursion_cumulative_sum.py
+Q: find the sum of n.
+Ex: given input : 4
+return : 4 + 3 + 2 + 1
