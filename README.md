@@ -13,6 +13,9 @@ Q: check for cycle in give given linked list if exist return True else False.
   - __False__
 
 # Recursion
+how to visualize recursion:
+here is the diagram for factorical of 5!
+![Factorial viz diagram](https://drive.google.com/open?id=17Q1cXMEUmyi_HbZeBtHREG8C8YiatB-r)
 ## recursion_factorial.py
 Q: find the factorial for given integer
 
