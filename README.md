@@ -15,6 +15,7 @@ Q: check for cycle in give given linked list if exist return True else False.
 # Recursion
 how to visualize recursion:
 here is the diagram for factorical of 5!
+
 ![Factorial viz diagram](https://github.com/ecevinoth/Python-DataStructure-and-Algorithm/blob/master/recursion_viz_factorial.png)
 
 ## recursion_factorial.py
