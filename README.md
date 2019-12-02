@@ -1,5 +1,23 @@
 # Python-DataStructure-and-Algorithm
 
+# Python Tips and Tricks
+## Different ways to test multiple flags at once
+Q : Different ways to test multiple logical condition at once
+
+## How to sort a Python dict by value with single line expression
+__expected output :__ dict = {'a': 99, 'b': 0, 'c': 101, 'd': 10, 'e': -1}
+__expected output :__ 
+[('e', -1), ('b', 0), ('d', 10), ('a', 99), ('c', 101)]
+
+## python_tipsandtricks_merge_two_dict.py
+Merging two dicts with a single expression
+__Given dictionary:__
+>>> x = {'a': 1, 'b': 2}
+>>> y = {'b': 3, 'c': 4}
+__expected output :__
+>>> z
+{'c': 4, 'a': 1, 'b': 3}
+
 # Linked List
 ## linkedlist_nth_to_lastnode.py
 __Q:__ find the nth element from last node of a given linked list. 
