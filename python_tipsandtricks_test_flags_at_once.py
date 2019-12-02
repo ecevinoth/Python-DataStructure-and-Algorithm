@@ -1,5 +1,4 @@
-# Different ways to test multiple
-# flags at once in Python
+# Different ways to test multiple logical condition at once
 x, y, z = 0, 1, 0
 
 if x == 1 or y == 1 or z == 1:
