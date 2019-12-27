@@ -6,6 +6,8 @@
   2. Queue
      - Priority Queue
 -  Tips and Tricks
+- Concepts
+  1. Recursion
 
 
 ### Intro to memoization

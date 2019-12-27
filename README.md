@@ -48,6 +48,11 @@ __recursion_word_split_problem.py__
 Q: Determine if it is possible to split the given string in a way in which words can be made from the list of words.
 Ex: given sting "iLoveIndia" and list of word ["i", "India", "Love"] then your function has to return True else False.
 
+__recursion_reverse_string.py__
+Q: reverse a string without using slicing & iteration.
+Ex: given sting "hello world" than your function has to return "dlrow olleh".
+
+
 # Queue : Priority Queue
 [__queue_priorityqueue.py__]()
 Short intro : A priority queue is an abstract data structure ( a data type defined by its behaviour) is like a normal queue but each item has special *key* to quantify its priority.
