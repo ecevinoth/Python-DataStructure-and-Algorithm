@@ -69,3 +69,6 @@ implementation of priority queue
     - It takes ++O(log n)++, internally use same heapq implementation.
     - It is synchronized - So it supports concurrent process
     - It is `class` interface instead of `function`. Thus, `PriorityQueue` is the classic OOP style of implementing and using Priority Queue.
+
+# Dict
+1. __dict_collections_defaultdict.py__ : To practise `collections.defaultdict` & `csv.DictReader()` 
