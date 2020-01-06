@@ -5,6 +5,8 @@
   1. Liked List
   2. Queue
      - Priority Queue
+  3. List
+     - List comprehension
 -  Tips and Tricks
 - Concepts
   1. Recursion
