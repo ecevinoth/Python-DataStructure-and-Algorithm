@@ -10,5 +10,5 @@ for value in collection:
         vals.append(expression)
 """
 
-even_square = [x * x for x in range(10) if not x%2]
+even_square = [x * x for x in range(10) if not x % 2]
 print(even_square)
