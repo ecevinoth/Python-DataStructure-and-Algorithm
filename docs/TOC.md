@@ -8,11 +8,10 @@
   3. List
      - List comprehension
   4. Tree
-     - [convert array to bst](src/tree_arrayToBst.py)
-     - [path sum](src/tree_pathsum.py)
+     - [convert array to bst](https://github.com/ecevinoth/Python-DataStructure-and-Algorithm/blob/master/src/tree_pathsum.py)
   5. Array
      - Two sum
-     - [Best time to Buy/Sell stock](src/array_buySellStock.py)
+     - [Best time to Buy/Sell stock](https://github.com/ecevinoth/Python-DataStructure-and-Algorithm/blob/master/src/array_buySellStock.py)
 -  Tips and Tricks
 - Concepts
   1. Recursion
