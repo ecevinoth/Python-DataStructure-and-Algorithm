@@ -7,6 +7,12 @@
      - Priority Queue
   3. List
      - List comprehension
+  4. Tree
+     - [convert array to bst](src/tree_arrayToBst.py)
+     - [path sum](src/tree_pathsum.py)
+  5. Array
+     - Two sum
+     - [Best time to Buy/Sell stock](src/array_buySellStock.py)
 -  Tips and Tricks
 - Concepts
   1. Recursion
